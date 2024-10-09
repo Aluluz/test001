@@ -16,6 +16,8 @@
   ![image](https://github.com/user-attachments/assets/834f45d4-f0e5-4b9c-bb41-663d7d475a35)
 
   b) Após criar o esquema, clique nele e vá em "tabelas" e clique em "Criar Tabela", um layout de criação de tabelas que será aberto; 
+  ![image](https://github.com/user-attachments/assets/3e8c5456-5dcd-410c-86a6-44a0861a1b0b)
+
   c) Agora é a etapa de definir o nome da tabela, e as colunas que serão presentes, juntamente com a definição de qual será a chave primária, isto é, o elemento que será como chamador dessa tabela. 
 
 3- Tabela criada!.
