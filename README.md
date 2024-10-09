@@ -5,6 +5,8 @@
   ![image](https://github.com/user-attachments/assets/87aea19d-8acc-4364-8451-29bd940784ed)
 
   b) Posteriormente é realizada a definição do nome do banco e criação; 
+  ![image](https://github.com/user-attachments/assets/4213590e-9cfa-44fe-adbd-d29d8b7975c7)
+
   c) Por fim, basta entrar e começar as operações. 
 
 2- Agora é a etapa de criação de tabela: 
