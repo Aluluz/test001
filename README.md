@@ -2,6 +2,8 @@
 
 1- Primeiramente temos que criar um banco de dados: 
   a) inicialmente, clique-se no ícone de + ao lado de "Conexões MySQl"; 
+  ![image](https://github.com/user-attachments/assets/87aea19d-8acc-4364-8451-29bd940784ed)
+
   b) Posteriormente é realizada a definição do nome do banco e criação; 
   c) Por fim, basta entrar e começar as operações. 
 
