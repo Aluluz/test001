@@ -8,6 +8,8 @@
   ![image](https://github.com/user-attachments/assets/4213590e-9cfa-44fe-adbd-d29d8b7975c7)
 
   c) Por fim, basta entrar e começar as operações. 
+  ![image](https://github.com/user-attachments/assets/bf207c12-64bf-47db-a922-3842c5ddd1ba)
+
 
 2- Agora é a etapa de criação de tabela: 
   a) De primeiro momento deve-se clicar com o botão direito do mouse para criar um esquema e clicar em "Criar Esquema"; 
