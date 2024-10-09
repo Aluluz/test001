@@ -19,5 +19,7 @@
   ![image](https://github.com/user-attachments/assets/3e8c5456-5dcd-410c-86a6-44a0861a1b0b)
 
   c) Agora é a etapa de definir o nome da tabela, e as colunas que serão presentes, juntamente com a definição de qual será a chave primária, isto é, o elemento que será como chamador dessa tabela. 
+  ![image](https://github.com/user-attachments/assets/331f1b23-233a-40c5-bee6-4828f5bc97c0)
+
 
 3- Tabela criada!.
